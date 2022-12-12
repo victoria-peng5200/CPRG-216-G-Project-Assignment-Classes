@@ -1,0 +1,133 @@
+PS C:\Users\vicky\Documents\216 Object oriented\Assignment info\Assignment#4\vicky> python -u "c:\Users\vicky\Documents\216 Object oriented\Assignment info\Assignment#4\vicky\vicky.py"
+
+Welcome to Alberta Hospital (AH) Management system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
+2
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+1
+The Hospital  Facilities are:
+
+Ambulance
+
+Admissions
+
+Canteen
+
+Emergency
+
+Back to the previous Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+2
+Enter Facility name:
+
+Covid Care
+
+Back to previous Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+1
+The Hospital  Facilities are:
+
+Ambulance
+
+Admissions
+
+Canteen
+
+Emergency
+
+Covid Care
+
+Back to the previous Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+
+3
+Welcome to Alberta Hospital (AH) Management system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
+3
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+1
+Lab          Cost
+
+Lab1          800
+
+Lab2          1200
+
+Lab3          500
+
+Lab4          50
+
+Back to the previous Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+2
+Enter Laboratory facility:
+
+Lab5
+Enter Laboratory cost:
+
+250
+
+Back to previous Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+1
+Lab          Cost
+
+Lab1          800
+
+Lab2          1200
+
+Lab3          500
+
+Lab4          50
+
+Lab5          250
+
+Back to the previous Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+3
+Welcome to Alberta Hospital (AH) Management system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
